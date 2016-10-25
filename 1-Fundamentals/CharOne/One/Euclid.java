@@ -1,4 +1,4 @@
-package Al;
+package Sw.CharOne.One;
 
 
 import edu.princeton.cs.algs4.StdOut;
